@@ -1,9 +1,4 @@
-*.aux
-*.bbl
-*.blg
-*.dvi
-*.fdb_latexmk
-*.glg
+*..glg
 *.glo
 *.gls
 *.idx
